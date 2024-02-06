@@ -14,7 +14,7 @@ class SpringbootRabbitmqApplicationTests {
 
 	@Test
 	void contextLoads() {
-		LOGGER.info("Test case executing--------------------");
+		LOGGER.info("Test case executing--------------------with test case new build");
 		assertEquals(true, true);
 	}
 
