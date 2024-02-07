@@ -17,7 +17,6 @@ class SpringbootRabbitmqApplicationTests {
 		LOGGER.info("Test case executing--------------------with test case new build");
 		LOGGER.info("Build pipe line included-----------------");
 		assertEquals(true, true);
-		r
 	}
 
 }
